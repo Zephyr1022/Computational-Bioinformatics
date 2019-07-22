@@ -42,3 +42,23 @@ https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 # Ref
 https://www.absingh.com/
+
+
+# Html and CSS
+https://www3.ntu.edu.sg/home/ehchua/programming/webprogramming/HTML_CSS_Basics.html
+https://github.com/ssthouse/github-visualization
+https://blog.csdn.net/qq_26927285/article/details/78761814
+https://www.jianshu.com/p/f82c76b90336
+https://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html
+
+# virilization
+https://github.com/ssthouse/github-visualization
+
+# CSS3 PLAY/PAUSE BUTTON
+https://codepen.io/stevenfabre/pen/DvBei
+
+https://github.com/Netflix/netflix.github.com/blob/master/index.html
+https://netflix.github.io/
+
+# Khan Acenemy
+https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github
