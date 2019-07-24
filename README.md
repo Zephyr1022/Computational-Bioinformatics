@@ -38,6 +38,13 @@ https://mmistakes.github.io/minimal-mistakes/docs/layouts/#author-profile
 《Jekyll使用教程笔记 三：Front Matter、写文章》
 https://juejin.im/post/5b3497ffe51d4558c5394a35
 
+
+
+## Look 
+https://github.com/happyrabbit/DataScienceWorkshop2018
+https://github.com/happyrabbit/DataScienceWorkshop2019
+
+
 https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 # Ref
@@ -62,3 +69,13 @@ https://netflix.github.io/
 
 # Khan Acenemy
 https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github
+
+
+# How does your job use data and data analysis? 
+We’re building models to help our customers solve their technical problems when they’re using Amazon devices and digital services. For example, if a customer just purchased an Echo device and the next day he or she is calling customer service, it’s very likely it’s going to be about device registration.
+Amazon uses data to answer business questions. For example, to confirm whether a new design or a machine learning model is going to help the customer or not. We run A/B testing, and based on the result and the data we collect, we use the information to make a business decision.
+https://thisisstatistics.org/ming-li-data-statistics-amazon/
+
+# What is a problem Amazon has solved with data? And how are statisticians helping to solve these problems? 
+Statisticians are making a difference in many areas.
+For example, at Amazon we use data and analytics to reduce packaging waste. The packaging industry has some standard dimensions for shipping products, but they were created a long time ago. At Amazon, we’re shipping products in all different kinds of sizes and dimensions. We use the data available on the dimensions of the products we can optimize what size boxes should be used for different products. By doing that we reduce the waste in packaging dramatically.
