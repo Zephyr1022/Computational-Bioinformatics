@@ -79,3 +79,17 @@ https://thisisstatistics.org/ming-li-data-statistics-amazon/
 # What is a problem Amazon has solved with data? And how are statisticians helping to solve these problems? 
 Statisticians are making a difference in many areas.
 For example, at Amazon we use data and analytics to reduce packaging waste. The packaging industry has some standard dimensions for shipping products, but they were created a long time ago. At Amazon, we’re shipping products in all different kinds of sizes and dimensions. We use the data available on the dimensions of the products we can optimize what size boxes should be used for different products. By doing that we reduce the waste in packaging dramatically.
+
+# 为Github Pages添加后台管理界面
+
+https://github.com/happyrabbit/DataScienceWorkshop2019
+Netlify 一個超神奇的靜態網頁 Hosting
+https://hpd.io/posts/netlify-static-hosting/
+https://xujinkai.net/posts/netlify-as-github-pages-cms
+Hexo+Netlify快速搭建个人博客
+https://segmentfault.com/a/1190000015756932
+
+手把手教你使用 netlify 实现前端的 自动部署 + HTTPS
+https://www.jianshu.com/p/a2aa730e7821
+使用 Netlify 持续集成你的静态网站
+https://zhuanlan.zhihu.com/p/31416527
